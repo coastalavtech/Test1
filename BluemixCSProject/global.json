@@ -1,7 +1,7 @@
 {
   "projects": [ "src" ],
   "sdk": {
-    "version": "1.0.0-preview2-003156"
+    "version": "1.0.0-preview5-004422"
   },
   "buildOptions": {
     "emitEntryPoint": true
